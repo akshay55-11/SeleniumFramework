@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-31T15:59:58 IST" name="Suite" finished-at="2025-05-31T16:00:27 IST" duration-ms="28841">
+    <groups>
+    </groups>
+    <test started-at="2025-05-31T15:59:58 IST" name="Test" finished-at="2025-05-31T16:00:27 IST" duration-ms="28841">
+      <class name="testCase.TC_001_LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCase.TC_001_LoginTest@e3c0e40]" started-at="2025-05-31T15:59:58 IST" name="setup" finished-at="2025-05-31T16:00:08 IST" duration-ms="10261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testLogin()[pri:0, instance:testCase.TC_001_LoginTest@e3c0e40]" started-at="2025-05-31T16:00:08 IST" name="testLogin" finished-at="2025-05-31T16:00:10 IST" duration-ms="1458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.TC_001_LoginTest@e3c0e40]" started-at="2025-05-31T16:00:10 IST" name="tearDown" finished-at="2025-05-31T16:00:10 IST" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCase.TC_001_LoginTest -->
+      <class name="testCase.TC_002_AdminTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCase.TC_002_AdminTest@479cbee5]" started-at="2025-05-31T16:00:10 IST" name="setup" finished-at="2025-05-31T16:00:20 IST" duration-ms="9931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="admintest()[pri:0, instance:testCase.TC_002_AdminTest@479cbee5]" started-at="2025-05-31T16:00:20 IST" name="admintest" finished-at="2025-05-31T16:00:26 IST" duration-ms="6472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- admintest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.TC_002_AdminTest@479cbee5]" started-at="2025-05-31T16:00:26 IST" name="tearDown" finished-at="2025-05-31T16:00:27 IST" duration-ms="212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCase.TC_002_AdminTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
